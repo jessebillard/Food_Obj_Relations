@@ -32,7 +32,4 @@ class Chef
         @@all_chefs.count
     end 
 
-    #instance methods
-    
-
 end 
