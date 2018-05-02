@@ -13,7 +13,5 @@ class Patron
             meal.patron == self
         end.collect { |meal_instance| meal_instance.name}
     end 
-
     
-
 end 
